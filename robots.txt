@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eemahtien.reliablepainting.com/sitemap.xml
